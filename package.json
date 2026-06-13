@@ -1,5 +1,5 @@
 {
-  "name": "@csgaglobal/docker-compose",
+  "name": "@meok-ai-labs/docker-compose",
   "version": "1.0.0",
   "description": "Docker Compose environment management with service orchestration, health monitoring, and configuration validation.",
   "main": "dist/index.js",
@@ -20,10 +20,10 @@
   "devDependencies": {
     "typescript": "^5.7.3"
   },
-  "author": "CSGA Global",
+  "author": "MEOK Labs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csga-global/mcp-servers",
+    "url": "https://github.com/meok-ai/mcp-servers",
     "directory": "packages/docker-compose"
   },
   "keywords": [
